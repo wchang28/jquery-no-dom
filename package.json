@@ -1,0 +1,82 @@
+{
+  "name": "jquery",
+  "title": "jQuery",
+  "description": "JavaScript library for Node (no DOM)",
+  "version": "2.2.0",
+  "main": "./index.js",
+  "homepage": "http://jquery.com",
+  "author": {
+    "name": "jQuery Foundation and other contributors",
+    "url": "https://github.com/jquery/jquery/blob/2.2.0/AUTHORS.txt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jquery/jquery.git"
+  },
+  "keywords": [
+    "jquery",
+    "javascript",
+    "browser",
+    "library"
+  ],
+  "bugs": {
+    "url": "https://github.com/jquery/jquery/issues"
+  },
+  "license": "MIT",
+  "dependencies": {
+	"jquery-deferred": "^0.3.0",
+	"najax": "^0.3.2"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+  },
+  "commitplease": {
+    "components": [
+      "Docs",
+      "Tests",
+      "Build",
+      "Release",
+      "Core",
+      "Ajax",
+      "Attributes",
+      "Callbacks",
+      "CSS",
+      "Data",
+      "Deferred",
+      "Deprecated",
+      "Dimensions",
+      "Effects",
+      "Event",
+      "Manipulation",
+      "Offset",
+      "Queue",
+      "Selector",
+      "Serialize",
+      "Traversing",
+      "Wrap"
+    ]
+  },
+  "gitHead": "6fc01e29bdad0964f62ef56d01297039cdcadbe5",
+  "_id": "jquery@2.2.0",
+  "_shasum": "d0e84ebbf199da51bf7ec39307f19b35754e9cba",
+  "_from": "jquery@",
+  "_npmVersion": "3.3.12",
+  "_nodeVersion": "5.2.0",
+  "_npmUser": {
+    "name": "timmywil",
+    "email": "timmywillisn@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "dmethvin",
+      "email": "dave.methvin@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "d0e84ebbf199da51bf7ec39307f19b35754e9cba",
+    "tarball": "http://registry.npmjs.org/jquery/-/jquery-2.2.0.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/jquery/-/jquery-2.2.0.tgz"
+}
