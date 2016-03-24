@@ -1,7 +1,7 @@
 {
   "name": "jquery-no-dom",
   "description": "JavaScript library for Node (no DOM)",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "homepage": "http://jquery.com",
   "author": {
